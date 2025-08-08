@@ -1,0 +1,8 @@
+flask
+langchain
+langchain-llms
+chromadb
+ollama
+pypdf
+duckduckgo-search
+langchain-community
